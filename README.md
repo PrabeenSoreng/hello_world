@@ -1,2 +1,2 @@
-#MyApp
-My Hello World Application.
+# MyApp
+This is Hello World Application
